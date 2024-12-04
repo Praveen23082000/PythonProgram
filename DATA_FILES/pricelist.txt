@@ -1,0 +1,7 @@
+sony=15000
+samsung=25000
+lg=12000
+iphone=150000
+vivo=13500
+oppo=22000
+oneplus=18000

@@ -1,0 +1,18 @@
+
+print("message) => print a massage in console
+
+type(object) => return data type of object
+
+input("massage")=> read value from console
+ 
+# bmi=weight_in_kg/(height_in_meter)**2
+
+range (start,stop,step)
+
+round(object,precision)
+
+max ( highest number return)
+
+min (smallest number returns)
+
+len (length of string)
